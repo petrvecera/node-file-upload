@@ -6,6 +6,8 @@ Aka how to stream the data directly to disk while they are beeing uploaded.
 
 But the code should be pretty self-explanatory...
 
+**All the magic happens in the [main.js](https://github.com/petrvecera/node-file-upload/blob/master/main.js)**
+
 ## Run the code
 
 1. `git clone https://github.com/petrvecera/node-file-upload.git`
