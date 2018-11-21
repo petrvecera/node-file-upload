@@ -1,4 +1,4 @@
-# Example code how to handle large file upload in Node
+# Example code how to handle large file upload in NodeJS
 
 Aka how to stream the data directly to disk while they are beeing uploaded.
 
@@ -15,4 +15,4 @@ But the code should be pretty self-explanatory...
 3. `yarn install`
 4. `yarn start`
 
-You can use also `npm` instead of `yarn`.
+You can also use `npm` instead of `yarn`.
